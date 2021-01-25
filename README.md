@@ -1,4 +1,4 @@
-# reading-notes
+# First Github
 
 ## 02a 
 
@@ -38,6 +38,6 @@ _this is italic text_
 ~~the fifth~~
 
 ## who am I :-
-###  I am muhanad abdulwahid ,23 years old ,i have graduated with a bachelor degree in  softwar engineering , i have good background in front-end and back-end and  working on myself to enhance my knowledge in software development.
+###  I am muhanad abdulwahid ,23 years old ,i have graduated with a bachelor degree in  softwar engineering , i have good background in front-end and back-end , i am working on myself to enhance my knowledge in software development.
 
- ![image.jpg] (https://www.skillsyouneed.com/images/mind-skills.jpg)
+ ![image.jpg](https://avatars.githubusercontent.com/u/76592884?s=460&u=c75ff7862e4a13417f72c7b86e4d49a9633e42ae&v=4)
