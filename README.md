@@ -27,12 +27,10 @@ _this is italic text_
 
 *** THIS IS IMPORTENT ***
 
-* the first*
+* the first 
 
 **the second**
 
-*the first*
-**the second**
 # the third 
 
 ## the fourth
