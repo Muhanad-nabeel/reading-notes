@@ -31,6 +31,8 @@ _this is italic text_
 
 **the second**
 
+*the first*
+** the second**
 # the third 
 
 ## the fourth
