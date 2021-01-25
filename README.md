@@ -4,4 +4,4 @@
 
 **THIS IS BOLD text**
 _this is italic text_
-***THIS IS IMPORTENT ***
+***THIS IS IMPORTENT***
